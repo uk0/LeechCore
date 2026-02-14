@@ -42,7 +42,6 @@ Please find a summary of the supported software based memory acquisition methods
 Please find a summary of the supported hardware based memory acquisition methods listed below. All hardware based memory acquisition methods are supported on both Windows and Linux.
 | Device                                                                                     | Type | Interface | Speed | 64-bit memory access | PCIe TLP access | Project<br>Sponsor |
 | -------------------------------------------------------------------------------------------| ---- | --------- | ----- | -------------------- | --------------- | ------------------ |
-| [Screamer PCIe Squirrel](https://github.com/ufrisk/pcileech-fpga/tree/master/PCIeSquirrel) | [FPGA](https://github.com/ufrisk/LeechCore/wiki/Device_FPGA)          | USB-C | 190MB/s  | Yes | Yes | 💖 |
 | [ZDMA](https://github.com/ufrisk/pcileech-fpga-dev/blob/master/ZDMA)                       | [FPGA](https://github.com/ufrisk/LeechCore/wiki/Device_FPGA)   | Thunderbolt3 | 1000MB/s | Yes | Yes | 💖 |
 | [GBOX](https://github.com/ufrisk/pcileech-fpga-dev/blob/master/GBOX)                       | [FPGA](https://github.com/ufrisk/LeechCore/wiki/Device_FPGA)        | OCuLink |  400MB/s | Yes | Yes | 💖 |
 | [LeetDMA](https://github.com/ufrisk/pcileech-fpga)                                         | [FPGA](https://github.com/ufrisk/LeechCore/wiki/Device_FPGA)          | USB-C | 190MB/s  | Yes | Yes | 💖 |
